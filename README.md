@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working on nucleus. A robust trading platform and machine learning bot for algorithmic trading.<br>I love to mess with windows internals on my free time and reverse engineer modern anticheats.<br>
+I am currently working on nucleus. A robust forext and crypt trading platform and machine learning bot for algorithmic trading.<br>I love to mess with windows internals on my free time and reverse engineer modern anticheats.<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nolanpierce) 
